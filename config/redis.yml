@@ -1,9 +1,9 @@
 # List of Redis server addresses
-address: [localhost:16379]
+address: [ localhost:16379 ]
 # Username for Redis authentication (leave blank if not used)
-username: ""
+username: ''
 # Password for Redis authentication
-password: openIM123456
+password: Mianju20250515
 # Enable or disable pipeline processing
 enablePipeline: false
 # Enable or disable cluster mode

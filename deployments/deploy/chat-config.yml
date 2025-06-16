@@ -71,7 +71,7 @@ data:
   share.yml: |
     openIM:
       # OpenIM API address
-      apiURL: http://openim-api-service:10002
+      apiURL: http://api.im.miliyue.com:10002
       # OpenIM secret key, must be consistent with OpenIM
       secret: Mianju20250515
       # OpenIM administrator userID, must be consistent with OpenIM
@@ -141,7 +141,7 @@ data:
         smtpPort:
 
     liveKit:
-      url: "ws://127.0.0.1:7880" # LIVEKIT_URL, LiveKit server address and port
+      url: "ws://ws.im.miliyue.com:7880" # LIVEKIT_URL, LiveKit server address and port
       key: "APIGPW3gnFTzqHH"
       secret: "23ztfSqsfQ8hKkHzHTl3Z4bvaxro0snjk5jwbp5p6Q3"
 

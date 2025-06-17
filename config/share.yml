@@ -1,7 +1,7 @@
 openIM:
   # OpenIM API address
-  # apiURL: http://127.0.0.1:10002
-  apiURL: http://api.im.miliyue.com
+  apiURL: http://127.0.0.1:10002
+  # apiURL: http://api.im.miliyue.com
   # OpenIM secret key, must be consistent with OpenIM
   secret: Mianju20250515
   # OpenIM administrator userID, must be consistent with OpenIM
